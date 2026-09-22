@@ -6,9 +6,9 @@ A comprehensive documentation repository covering offline CLI password cracking 
 
 ## 👤 Internship & Author Details
 
-- **Intern Name:** Azeez Umar Opeyemi
+- **Intern Name:** [Azeez Umar Opeyemi](https://www.linkedin.com/in/azeez-umar-opeyemi-201a433a4/) 
 - **Intern ID:** NW-83-ODU
-- **Instructor / Mentor:** Waqas Karim (CCIE)
+- **Instructor / Mentor:** [Waqas Karim (CCIE)](https://www.linkedin.com/in/waqaskarim/)
 - **Domain:** Cybersecurity & Penetration Testing
 - **Organization:** Networkwalks Technologies
 - **Internship Period:** September 6, 2026 – October 3, 2026
